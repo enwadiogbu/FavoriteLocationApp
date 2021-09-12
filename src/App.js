@@ -8,8 +8,6 @@ import {
 import Users from "./users/pages/Users";
 import NewPlace from "./users/pages/NewPlace";
 
-
-
 const App = () => {
   return (
     <Router>
